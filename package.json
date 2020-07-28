@@ -1,0 +1,7 @@
+{
+  "name": "react-firestore-hooks",
+  "version": "1.0.0",
+  "dependencies": {
+    "firebase": "^7.17.1"
+  }
+}
